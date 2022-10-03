@@ -1,0 +1,8 @@
+C:\Users\Felix\Desktop\AMPAutoStop\AMPAutoStop\AMPAutoStop\obj\Debug\AMPAutoStop.csproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\AMPAutoStop\AMPAutoStop\AMPAutoStop\obj\Debug\AMPAutoStop.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\AMPAutoStop\AMPAutoStop\AMPAutoStop\bin\Debug\AMPAutoStop.dll
+C:\Users\Felix\Desktop\AMPAutoStop\AMPAutoStop\AMPAutoStop\bin\Debug\AMPAutoStop.pdb
+C:\Users\Felix\Desktop\AMPAutoStop\AMPAutoStop\AMPAutoStop\bin\Debug\ModuleShared.dll
+C:\Users\Felix\Desktop\AMPAutoStop\AMPAutoStop\AMPAutoStop\obj\Debug\AMPAutoStop.csproj.CopyComplete
+C:\Users\Felix\Desktop\AMPAutoStop\AMPAutoStop\AMPAutoStop\obj\Debug\AMPAutoStop.dll
+C:\Users\Felix\Desktop\AMPAutoStop\AMPAutoStop\AMPAutoStop\obj\Debug\AMPAutoStop.pdb
